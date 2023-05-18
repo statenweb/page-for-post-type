@@ -1,6 +1,6 @@
 {
-	"name": "humanmade/page-for-post-type",
-	"description": "Allows you to set pages for any custom post type archive",
+	"name": "statenweb/page-for-post-type",
+	"description": "Allows you to set pages for any custom post type archive. Purely forked to update composer/installers to 2",
 	"homepage": "https://github.com/humanmade/page-for-post-type",
 	"version": "0.2.0",
 	"keywords": [
